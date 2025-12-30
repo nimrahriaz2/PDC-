@@ -1,0 +1,155 @@
+================================================================================
+PARALLEL IMAGE PROCESSING STATISTICS REPORT
+================================================================================
+
+Filter: blur
+Image: C:\Users\Umer\source\repos\ConsoleApp12\ConsoleApp12\images.jpg
+Kernel Size: 5x5
+Number of Threads: 2
+
+Execution Times:
+  Serial Execution:           26 ms
+  Parallel Execution:         48 ms
+
+Performance Metrics:
+  Speedup:        0.5417x
+  Efficiency:     0.2708 (27.08%)
+
+Report Generated: 2025-12-28 12:02:32
+================================================================================
+
+
+================================================================================
+PROCESSING SESSION SUMMARY
+================================================================================
+Image: C:\Users\Umer\source\repos\ConsoleApp12\ConsoleApp12\images.jpg
+Kernel Size: 5x5
+Threads Used: 2
+Processors Available: 4
+Session Date: 2025-12-28 12:02:32
+================================================================================
+
+================================================================================
+PARALLEL IMAGE PROCESSING STATISTICS REPORT
+================================================================================
+
+Filter: invert
+Image: C:\Users\Umer\source\repos\ConsoleApp12\ConsoleApp12\demo.jpg
+Kernel Size: 5x5
+Number of Threads: 3
+
+Execution Times:
+  Serial Execution:           13 ms
+  Parallel Execution:         27 ms
+
+Performance Metrics:
+  Speedup:        0.4815x
+  Efficiency:     0.1605 (16.05%)
+
+Report Generated: 2025-12-28 12:05:54
+================================================================================
+
+
+================================================================================
+PROCESSING SESSION SUMMARY
+================================================================================
+Image: C:\Users\Umer\source\repos\ConsoleApp12\ConsoleApp12\demo.jpg
+Kernel Size: 5x5
+Threads Used: 3
+Processors Available: 4
+Session Date: 2025-12-28 12:05:54
+================================================================================
+
+================================================================================
+PARALLEL IMAGE PROCESSING STATISTICS REPORT
+================================================================================
+
+Filter: invert
+Image: C:\Users\Umer\source\repos\ConsoleApp12\ConsoleApp12\CAT.jpg
+Kernel Size: 5x5
+Number of Threads: 3
+
+Execution Times:
+  Serial Execution:           19 ms
+  Parallel Execution:         32 ms
+
+Performance Metrics:
+  Speedup:        0.5938x
+  Efficiency:     0.1979 (19.79%)
+
+Report Generated: 2025-12-28 12:13:34
+================================================================================
+
+
+================================================================================
+PROCESSING SESSION SUMMARY
+================================================================================
+Image: C:\Users\Umer\source\repos\ConsoleApp12\ConsoleApp12\CAT.jpg
+Kernel Size: 5x5
+Threads Used: 3
+Processors Available: 4
+Session Date: 2025-12-28 12:13:34
+================================================================================
+
+================================================================================
+PARALLEL IMAGE PROCESSING STATISTICS REPORT
+================================================================================
+
+Filter: blur
+Image: C:\Users\Umer\source\repos\ConsoleApp12\ConsoleApp12\CAT.jpg
+Kernel Size: 5x5
+Number of Threads: 3
+
+Execution Times:
+  Serial Execution:           55 ms
+  Parallel Execution:         45 ms
+
+Performance Metrics:
+  Speedup:        1.2222x
+  Efficiency:     0.4074 (40.74%)
+
+Report Generated: 2025-12-28 12:16:55
+================================================================================
+
+
+================================================================================
+PROCESSING SESSION SUMMARY
+================================================================================
+Image: C:\Users\Umer\source\repos\ConsoleApp12\ConsoleApp12\CAT.jpg
+Kernel Size: 5x5
+Threads Used: 3
+Processors Available: 4
+Session Date: 2025-12-28 12:16:55
+================================================================================
+
+================================================================================
+PARALLEL IMAGE PROCESSING STATISTICS REPORT
+================================================================================
+
+Filter: median
+Image: C:\Users\Umer\source\repos\ConsoleApp12\ConsoleApp12\CAT.jpg
+Kernel Size: 5x5
+Number of Threads: 3
+
+Execution Times:
+  Serial Execution:          356 ms
+  Parallel Execution:        112 ms
+
+Performance Metrics:
+  Speedup:        3.1786x
+  Efficiency:     1.0595 (105.95%)
+
+Report Generated: 2025-12-28 12:18:52
+================================================================================
+
+
+================================================================================
+PROCESSING SESSION SUMMARY
+================================================================================
+Image: C:\Users\Umer\source\repos\ConsoleApp12\ConsoleApp12\CAT.jpg
+Kernel Size: 5x5
+Threads Used: 3
+Processors Available: 4
+Session Date: 2025-12-28 12:18:52
+================================================================================
+
